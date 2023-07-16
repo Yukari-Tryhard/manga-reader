@@ -1,10 +1,9 @@
-import React, { useEffect, useLayoutEffect, useRef } from 'react'
+import { useLayoutEffect, useRef } from 'react'
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/src/components/ui/tabs"
 import { BsChatHeart } from "react-icons/bs"
 import InfoCard from './InfoCard'
 import CardFooter from './CardFooter'
 import ChapterList from './ChapterList'
-import { useNavigate } from 'react-router-dom'
 
 const Description = () => {
     const activeRef = useRef<HTMLButtonElement>(null);

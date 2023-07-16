@@ -1,4 +1,4 @@
-import React from 'react'
+
 import {Menu} from './components/Menu'
 import CategoryList from './components/CategoryList'
 import CardList from './components/CardList'

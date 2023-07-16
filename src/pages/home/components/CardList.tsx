@@ -1,8 +1,4 @@
-import Image from "next/image"
 
-import { AspectRatio } from "@/src/components/ui/aspect-ratio"
-
-import React, { useEffect } from 'react'
 import Card from "./Card"
 
 const CardList = () => {

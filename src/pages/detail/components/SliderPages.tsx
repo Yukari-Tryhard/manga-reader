@@ -1,5 +1,4 @@
 import { AspectRatio } from '@/src/components/ui/aspect-ratio'
-import React from 'react';
 import Slider from "react-slick";
 
 const SliderPages = () => {

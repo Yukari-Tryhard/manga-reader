@@ -1,4 +1,4 @@
-import React from 'react'
+
 import { badgeVariants } from "@/src/components/ui/badge"
 import { Link } from 'react-router-dom'
 

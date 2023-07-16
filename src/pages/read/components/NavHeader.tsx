@@ -1,8 +1,6 @@
 "use client"
 
 import * as React from "react"
-import Link from "next/link"
-import WebLogo from "@/src/assets/logo.svg";
 
 import { cn } from "@/src/lib/utils"
 import {
@@ -11,8 +9,7 @@ import {
   NavigationMenuItem,
   NavigationMenuLink,
   NavigationMenuList,
-  NavigationMenuTrigger,
-  navigationMenuTriggerStyle,
+  NavigationMenuTrigger
 } from "@/src/components/ui/navigation-menu"
 
 const components: { title: string; href: string }[] = [

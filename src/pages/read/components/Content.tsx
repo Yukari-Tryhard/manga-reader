@@ -1,5 +1,4 @@
-import { AspectRatio } from '@/src/components/ui/aspect-ratio'
-import React from 'react'
+
 import creadit from "@/src/data/manga/super lovers/chap 30/vn/credit.jpg";
 import img1 from "@/src/data/manga/super lovers/chap 30/vn/img000001.jpg";
 import img2 from "@/src/data/manga/super lovers/chap 30/vn/img000002.jpg";

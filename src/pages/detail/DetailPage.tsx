@@ -1,6 +1,3 @@
-import { AspectRatio } from '@/src/components/ui/aspect-ratio';
-import React from 'react'
-
 import {IoArrowBack} from "react-icons/io5"
 import {RxShare1} from "react-icons/rx"
 import SliderPages from './components/SliderPages';

@@ -1,6 +1,6 @@
 import { AspectRatio } from '@/src/components/ui/aspect-ratio'
 import { Badge } from '@/src/components/ui/badge'
-import React, { useEffect } from 'react'
+import { useEffect } from 'react'
 import {AiOutlineFieldTime} from "react-icons/ai"
 import { Link } from 'react-router-dom'
 
